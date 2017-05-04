@@ -61,5 +61,11 @@ namespace APIGitDemo.Controllers
             return "value";
         }
 
+        // GET api/values/
+        public string SGetAll1()
+        {
+            return "value";
+        }
+
     }
 }
