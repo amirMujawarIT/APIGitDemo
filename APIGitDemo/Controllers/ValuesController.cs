@@ -48,5 +48,18 @@ namespace APIGitDemo.Controllers
         {
             return "value";
         }
+
+        // GET api/values/
+        public string GetAll3()
+        {
+            return "value";
+        }
+
+        // GET api/values/
+        public string GetAll4()
+        {
+            return "value";
+        }
+
     }
 }
