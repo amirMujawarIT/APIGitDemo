@@ -36,5 +36,17 @@ namespace APIGitDemo.Controllers
         public void Delete(int id)
         {
         }
+
+        // GET api/values/
+        public string GetAll()
+        {
+            return "value";
+        }
+
+        // GET api/values/
+        public string GetAll2()
+        {
+            return "value";
+        }
     }
 }
