@@ -61,12 +61,11 @@ namespace APIGitDemo.Controllers
             return "value";
         }
 
-        // GET api/values/
-<<<<<<< HEAD
         public string SGetAll2()
-=======
+        {
+            return "value";
+        }
         public string SGetAll1()
->>>>>>> feature/Symultanous_Add_Function_1
         {
             return "value";
         }
