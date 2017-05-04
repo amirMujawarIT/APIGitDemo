@@ -67,7 +67,7 @@ namespace APIGitDemo.Controllers
         }
         public string SGetAll1()
         {
-            return "value";
+            return "value1+value2";
         }
 
     }
